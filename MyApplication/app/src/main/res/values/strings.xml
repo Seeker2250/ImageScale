@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">자기 소개</string>
+    <string name="str1">안녕하세요</string>
+    <string name="str2">정보통신학부</string>
+    <string name="str3">김준석입니다</string>
+    <string name="app_name2">시 목록</string>
+    <string name="title01">별 헤는 밤</string>
+    <string name="author01">윤동주</string>
+    <string name="body01">
+    계절이 지나가는 하늘에는
+    가을로 가득 차 있습니다.
+    나는 아무 걱정도 없이
+    가을 속의 별들을 다 헤일 듯합니다.
+</string>
+    <string name="title02">가지 않은 길</string>
+    <string name="author02">로버트 프로스트</string>
+    <string name="body02">
+    노란 숲 속 두 갈래로 길이 나 있었습니다.
+    두 길 다 가보지 못하는 것이 안타까워,
+    한동안 나그네로 서서
+    한쪽 깊이 굽어 꺾여 내려한 곳으로
+    눈이 닿는 데까지 멀리 바라보았습니다.
+</string>
+</resources>
